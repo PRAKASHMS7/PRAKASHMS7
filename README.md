@@ -2,7 +2,7 @@
 <p align="center">
   <img src="githubbanner.png" alt="banner" width="100%" />
 </p>
-<h1 align="center">Hi 👋, I'm Mahaboob Vali Shaik</h1>
+<h1 align="center">Hi 👋, I'm UPPARA PRAKASH </h1>
 
 <p align="center">
   <b>AI/ML Enthusiast • Final Year CSE Student • Building Real-World Projects</b>
