@@ -20,15 +20,18 @@ Building Intelligent Systems with Machine Learning, Generative AI, FastAPI & Age
 
 ## 🚀 About Me
 
-🎓 MSc Computer Science Graduate from **Central University of Tamil Nadu** (90%)
+## 🚀 About Me
 
-🤖 AI/ML Engineer passionate about building intelligent and impactful solutions
+🎓 MSc Computer Science | Central University of Tamil Nadu (90%)
 
-🔍 Experienced in Machine Learning, Generative AI, RAG Systems, AI Agents, and FastAPI
+🤖 AI/ML Engineer | Generative AI Enthusiast | FastAPI Developer
 
-🛠️ Built real-world projects including AI-Powered Phishing Detection and AI Incident Management Agent
+🔍 Building AI Agents, RAG Applications, Machine Learning & Data Analytics Solutions
 
-🌱 Currently exploring Agentic AI, LangGraph, and Multi-Agent Systems
+⚡ Passionate about solving real-world problems using Artificial Intelligence
+
+📫 Reach me: YOUR_EMAIL
+
 
 📫 Reach me: prakashcutn07@gmail.com
 
@@ -57,120 +60,85 @@ Building Intelligent Systems with Machine Learning, Generative AI, FastAPI & Age
 </p>
 
 ---
+# 💻 Skills & Technologies
 
-# 💻 Tech Stack
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Programming Languages
+### 🤖 AI & Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-### AI & Machine Learning
-
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge)
-
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+</td>
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<td width="50%" valign="top">
 
----
-
-### Generative AI
+### 🧠 Generative AI
 
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-
 ![LangGraph](https://img.shields.io/badge/LangGraph-4CAF50?style=for-the-badge)
-
 ![RAG](https://img.shields.io/badge/RAG-FF9800?style=for-the-badge)
-
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
 
----
+</td>
+</tr>
 
-### Backend Development
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data Analytics
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Backend & APIs
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
----
-
-### Frontend Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
+</td>
+</tr>
 
-# 🔥 Featured Projects
+<tr>
+<td width="50%" valign="top">
 
-## 🛡️ AI-Powered Phishing URL Detection
+### 🌐 Frontend
 
-Machine Learning-based phishing detection system using XGBoost, FastAPI and threat intelligence APIs.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+</td>
 
-## 🤖 AI Incident Management Agent
+<td width="50%" valign="top">
 
-AI-powered system for automated incident analysis, root cause identification and remediation recommendations.
+### 🛠️ Tools & Databases
 
----
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📚 RAG Knowledge Assistant
-
-Retrieval-Augmented Generation application built using LLMs and vector databases.
-
----
-
-## 🌐 Full Stack AI Applications
-
-Modern AI applications developed using React, FastAPI and Machine Learning models.
-
----
-
-# 🎯 Current Focus
-
-✅ Agentic AI
-
-✅ Multi-Agent Systems
-
-✅ Generative AI Applications
-
-✅ Production-Ready FastAPI Backends
-
-✅ AI Automation Solutions
+</td>
+</tr>
+</table>
 
 ---
 
