@@ -20,43 +20,18 @@ Building Intelligent Systems with Machine Learning, Generative AI, FastAPI & Age
 
 ## 🚀 About Me
 
-🎓 MSc Computer Science Graduate
+🎓 MSc Computer Science Graduate from **Central University of Tamil Nadu** (90%)
 
-🤖 Passionate AI/ML Engineer focused on solving real-world problems using Artificial Intelligence
+🤖 AI/ML Engineer passionate about building intelligent and impactful solutions
 
-🧠 Experienced in:
+🔍 Experienced in Machine Learning, Generative AI, RAG Systems, AI Agents, and FastAPI
 
-- Machine Learning
-- Generative AI
-- RAG Applications
-- AI Agents
-- FastAPI Development
-- Full Stack AI Applications
+🛠️ Built real-world projects including AI-Powered Phishing Detection and AI Incident Management Agent
 
-🔍 Major Projects:
+🌱 Currently exploring Agentic AI, LangGraph, and Multi-Agent Systems
 
-- AI-Powered Phishing URL Detection System
-- AI Incident Management Agent
-- RAG-based AI Applications
-- Machine Learning Solutions
+📫 Reach me: prakashcutn07@gmail.com
 
-🌱 Currently Learning:
-
-- Agentic AI
-- LangGraph
-- Multi-Agent Systems
-- LLM Fine-Tuning
-- Advanced RAG Architectures
-
-💬 Ask Me About:
-
-- Python
-- Machine Learning
-- FastAPI
-- Generative AI
-- AI Agents
-
-📫 Email: YOUR_EMAIL
 
 📄 Resume:
 [View Resume](YOUR_RESUME_LINK)
