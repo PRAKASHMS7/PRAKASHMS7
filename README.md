@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="githubbanner.png" alt="banner" width="100%" />
+  <img src=""C:\Users\praka\Downloads\GITHUB_IMG.png"" alt="banner" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm UPPARA PRAKASH </h1>
 
