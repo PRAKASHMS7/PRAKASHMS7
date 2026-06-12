@@ -53,8 +53,11 @@ Building Intelligent Systems with Machine Learning, Generative AI, FastAPI & Age
 </a>
 
 </p>
+<p align="center">
+⭐ If you like my work, consider following me and exploring my repositories.
+</p>
 
----
+
 # 💻 Skills & Technologies
 
 <table>
@@ -162,14 +165,4 @@ Building Intelligent Systems with Machine Learning, Generative AI, FastAPI & Age
 > Gained practical exposure to **Cybersecurity, Network Security, and Threat Detection**.
 
 
----
 
-## 💡 Quote I Live By
-
-> **"Artificial Intelligence is not just about building models — it's about building solutions that create real-world impact."**
-
----
-
-<p align="center">
-⭐ If you like my work, consider following me and exploring my repositories.
-</p>
