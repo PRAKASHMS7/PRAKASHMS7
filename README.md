@@ -20,8 +20,6 @@ Building Intelligent Systems with Machine Learning, Generative AI, FastAPI & Age
 
 ## 🚀 About Me
 
-## 🚀 About Me
-
 🎓 MSc Computer Science | Central University of Tamil Nadu (90%)
 
 🤖 AI/ML Engineer | Generative AI Enthusiast | FastAPI Developer
@@ -29,9 +27,6 @@ Building Intelligent Systems with Machine Learning, Generative AI, FastAPI & Age
 🔍 Building AI Agents, RAG Applications, Machine Learning & Data Analytics Solutions
 
 ⚡ Passionate about solving real-world problems using Artificial Intelligence
-
-📫 Reach me: YOUR_EMAIL
-
 
 📫 Reach me: prakashcutn07@gmail.com
 
@@ -140,31 +135,32 @@ Building Intelligent Systems with Machine Learning, Generative AI, FastAPI & Age
 </tr>
 </table>
 
----
 
-# 📊 GitHub Analytics
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PRAKASHMS7&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRAKASHMS7&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PRAKASHMS7&theme=tokyonight"/>
-
-</p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 💼 Professional Journey & Key Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PRAKASHMS7&theme=tokyonight&no-frame=true&margin-w=15"/>
+  <img src="https://img.shields.io/badge/🤖_AI_Intern-Synycs_Enterprises-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔬_Research-IIIT_Dharwad-2EA44F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎤_Deepfake_Presentation-CUTN-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔐_Cybersecurity-Cisco-8A2BE2?style=for-the-badge" />
 </p>
+
+> ### 🤖 AI Intern — Synycs Enterprises Pvt. Ltd.
+> Developed an **AI-Powered Incident Management Agent** for incident analysis, root cause identification, and remediation automation.
+
+> ### 🔬 Research Intern — IIIT Dharwad
+> Evaluated **Machine Learning Models for Effective Fake URL Detection** using advanced ML techniques.
+
+> ### 🎤 Research Presentation — Central University of Tamil Nadu
+> Presented **Challenges & Opportunities of Deepfake Across Domains** at a national seminar.
+
+> ### 🔐 Cybersecurity Internship — Cisco Networking Academy
+> Gained practical exposure to **Cybersecurity, Network Security, and Threat Detection**.
+
 
 ---
 
@@ -178,7 +174,7 @@ Building Intelligent Systems with Machine Learning, Generative AI, FastAPI & Age
 
 ## 💡 Quote I Live By
 
-> "Artificial Intelligence is not just about building models — it's about building solutions that create real-world impact."
+> **"Artificial Intelligence is not just about building models — it's about building solutions that create real-world impact."**
 
 ---
 
