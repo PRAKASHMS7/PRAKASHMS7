@@ -1,6 +1,9 @@
 <p align="center">
   <img src="GITHUB_IMG.png" width="100%" alt="Uppara Prakash Banner"/>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Generative+AI+Developer;Data+Analytics+Enthusiast;Building+Real-World+AI+Solutions" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Uppara Prakash</h1>
 
