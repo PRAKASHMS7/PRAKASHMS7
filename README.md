@@ -164,14 +164,6 @@ Building Intelligent Systems with Machine Learning, Generative AI, FastAPI & Age
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://ghchart.rshah.org/PRAKASHMS7" width="900"/>
-</p>
-
----
-
 ## 💡 Quote I Live By
 
 > **"Artificial Intelligence is not just about building models — it's about building solutions that create real-world impact."**
