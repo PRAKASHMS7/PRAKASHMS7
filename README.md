@@ -35,7 +35,7 @@ Building Intelligent Systems with Machine Learning, Generative AI, FastAPI & Age
 
 
 📄 Resume:
-[View Resume](YOUR_RESUME_LINK)
+[View Resume](https://drive.google.com/file/d/1fgN_gZ7tZ6C3BzdNcxBTtP4OvGbuFDAy/view?usp=sharing)
 
 ---
 
