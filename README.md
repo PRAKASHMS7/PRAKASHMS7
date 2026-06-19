@@ -43,17 +43,14 @@ Building Intelligent Systems with Machine Learning, Generative AI, FastAPI & Age
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/uppara-prakash-9b5779351 ">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:prakashcutn07@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 
 </p>
 <p align="center">
